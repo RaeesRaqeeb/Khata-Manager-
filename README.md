@@ -21,9 +21,6 @@
 <h2>Recording Purchses on Credit</h2>
 <img width="635" height="465" alt="3" src="https://github.com/user-attachments/assets/c7cfce69-6910-4148-8b28-152d6cecda4b" />
 
-<h2>Present Customers</h2>
-<img width="458" height="420" alt="6" src="https://github.com/user-attachments/assets/6c94623a-043a-405d-a217-aca67df49d8b" />
-
 <h2>Deleting/Editing Items info</h2>
 <img width="360" height="330" alt="8" src="https://github.com/user-attachments/assets/db25dd60-47d1-4ca2-85be-3b6d8627a7fc" />
 
