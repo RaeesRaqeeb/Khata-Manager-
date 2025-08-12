@@ -1,4 +1,4 @@
-<img width="402" height="387" alt="5" src="https://github.com/user-attachments/assets/93269752-fbea-4a88-8ad0-6cc1df2cb999" /><img width="566" height="475" alt="2" src="https://github.com/user-attachments/assets/0d28f657-35f2-435c-b666-7c6e714b33a4" /><h1>Khata Manager</h1>
+<h1>Khata Manager</h1>
 <p>This is on demand developed Khata Manager Desktop Application where user can add his customers and track records of purchased on credit. GUI is simple so clint don't face issue while using. You are allowed to use it and improve it as you want.</p>
 
 
