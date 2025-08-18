@@ -1,6 +1,55 @@
-<h1>Khata Manager</h1>
-<p>This is on demand developed Khata Manager Desktop Application where user can add his customers and track records of purchased on credit. GUI is simple so clint don't face issue while using. You are allowed to use it and improve it as you want.</p>
+# 💰 Khata Manager (Accounting System)
 
+**Khata Manager** is a lightweight **desktop-based accounting and record management system** built in **C# (Windows Forms)** with **SQL Server (MDF file)**.
+It is designed for small businesses and individuals to manage their **daily financial records, transactions, and customer accounts** efficiently.
+
+---
+
+## 🚀 Features
+
+* **Customer Management** – Add, update, and track customer details
+* **Transaction Records** – Store daily credit & debit transactions
+* **Search & Filter** – Quickly access financial records by customer/date
+* **Database Storage** – Uses **SQL Server LocalDB (MDF)** file for persistent storage
+* **Backup & Restore** – Easy backup/restore of records for safety
+* **Simple UI** – Windows Forms interface designed for non-technical users
+
+---
+
+## 🛠️ Tech Stack
+
+* **Language:** C# (.NET Framework)
+* **Frontend:** Windows Forms (WinForms)
+* **Database:** SQL Server LocalDB (`.MDF` file)
+
+---
+
+## 📦 Packages Used
+
+This project uses the following NuGet packages:
+
+* `EntityFramework 6.4.4`
+* `System.Data.SqlClient 4.8.5`
+* `System.Configuration.ConfigurationManager 7.0.0`
+* `Microsoft.Bcl.AsyncInterfaces 6.0.0`
+* `System.Buffers 4.5.1`
+* `System.Memory 4.5.5`
+* `System.Runtime.CompilerServices.Unsafe 4.7.0`
+* `System.Threading.Tasks.Extensions 4.5.4`
+
+---
+
+## 📌 Project Outcome
+
+**Khata Manager** enables shopkeepers, small business owners, and individuals to:
+
+* Replace **manual registers (khatas)** with a digital solution
+* Keep **accurate customer-wise balance records**
+* Save time and reduce errors in financial record keeping
+
+It can be extended with features like **multi-user access, invoice generation, and reporting dashboards**.
+
+---
 
 <h2>Login Page</h2>
 <img width="798" height="467" alt="1" src="https://github.com/user-attachments/assets/890059c3-78a5-40f5-b9a4-5960071189bb" />
